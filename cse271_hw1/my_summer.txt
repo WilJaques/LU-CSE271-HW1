@@ -1,0 +1,9 @@
+This summer I worked alot and I also played alot of golf. I worked for a company
+called maverick lite which does lighting designs and lighting controls for 
+residential housings. This isn't directly related to CS but the things that I was
+doing for the company were all CS related. Meaning making scripts to speed up 
+work flow. Alot of the AutoLisp and python was used this year to make all these 
+scripts that the company now uses every day.
+
+
+Wil Jaques
